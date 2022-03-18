@@ -1,0 +1,19 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: bisque;
+}
+
+.title {
+  font-size: 80px;
+  color: darkblue;
+}
+
+.title-accent {
+  font-size: 40px;
+  color: darkslateblue;
+}
+
+.subtitle {
+  font-size: 50px;
+  color: blue;
+}
